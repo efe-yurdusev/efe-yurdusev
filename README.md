@@ -24,7 +24,7 @@
 ---
 
 ## 📫 How to reach me  
-- **LinkedIn:** https://www.linkedin.com/in/efe-yurdursev  
+- **LinkedIn:** linkedin.com/in/efe-yurdusev-863035324  
 - **GitHub:** You're already here 😊  
 
 ---
