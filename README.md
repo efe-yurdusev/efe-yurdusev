@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**efe-yurdusev/efe-yurdusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Statistics Student**  
+💻 **Python • NumPy • Pandas • SQL**  
+🤖 **Exploring Artificial Intelligence & Machine Learning**  
+🔎 Research-oriented, always learning and building meaningful projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm focusing on
+- Strengthening Python fundamentals  
+- Practicing data analysis & exploratory work  
+- Starting SQL and database concepts  
+- Preparing for AI & Machine Learning foundations  
+
+---
+
+## 📂 Featured Projects (Coming Soon)
+- Python mini projects  
+- Data analysis notebooks  
+- Automation & file management scripts  
+- Beginner-level ML experiments  
+
+---
+
+## 📫 How to reach me  
+- **LinkedIn:** https://www.linkedin.com/in/efe-yurdursev  
+- **GitHub:** You're already here 😊  
+
+---
+
+## 🌱 Personal Note
+Learning with intention, improving daily, and aiming to build impactful work.  
